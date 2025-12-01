@@ -120,7 +120,7 @@ These visuals help interpret both the dataset and model performance.
 
 ---
 
-📈 ## Key Insights
+## 📈 Key Insights
 
 * **Text features (essays) add significant predictive value** when processed with TF-IDF.
 * Age prediction achieves an average error of **5–6 years**, which is strong considering noisy user-generated text.
@@ -130,7 +130,7 @@ These visuals help interpret both the dataset and model performance.
 
 ---
 
-🛠️ ## Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * Pandas, NumPy
