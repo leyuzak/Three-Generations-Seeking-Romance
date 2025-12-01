@@ -91,6 +91,22 @@ Regression models trained:
 * Gradient Boosting Regressor
 * Random Forest Regressor
 * Linear Regression
+* Metrics Used:
+* MAE (Mean Absolute Error)
+* MSE (Mean Squared Error)
+
+➡️ Gradient Boosting Regressor performed the best.
+
+### **3.3 Classification Models (Generation Prediction)**
+Classification models trained:
+* Random Forest Classifier
+* Gradient Boosting Classifier
+* Logistic Regression
+
+Metric Used:
+* Accuracy
+
+➡️ Logistic Regression achieved the highest accuracy $(\sim 69\%)$.
 
 ## 📊 Visualizations
 
@@ -121,19 +137,3 @@ These visuals help interpret both the dataset and model performance.
 * Scikit-learn
 * TF-IDF vectorization
 * Matplotlib, Seaborn
-Metrics Used:
-* MAE (Mean Absolute Error)
-* MSE (Mean Squared Error)
-
-➡️ Gradient Boosting Regressor performed the best.
-
-### **3.3 Classification Models (Generation Prediction)**
-Classification models trained:
-* Random Forest Classifier
-* Gradient Boosting Classifier
-* Logistic Regression
-
-Metric Used:
-* Accuracy
-
-➡️ Logistic Regression achieved the highest accuracy $(\sim 69\%)$.
